@@ -1,0 +1,202 @@
+{
+  "shop": "DailyNeeds Mart, Lahore (SAMPLE)",
+  "period": "2026-09-07 to 2026-11-01",
+  "weeks": 8,
+  "lines": 295,
+  "days": 56,
+  "total_revenue_pkr": 570445,
+  "avg_weekly_revenue_pkr": 71306,
+  "best_week": {
+    "week_no": 5,
+    "week_start": "2026-10-05",
+    "total_pkr": 86875
+  },
+  "worst_week": {
+    "week_no": 1,
+    "week_start": "2026-09-07",
+    "total_pkr": 61465
+  },
+  "first_week_pkr": 61465,
+  "last_week_pkr": 64000,
+  "overall_growth_pct": 4.12,
+  "category_totals_pkr": {
+    "Groceries": 178235,
+    "Dairy": 164130,
+    "Bakery": 39780,
+    "Household": 81710,
+    "Beverages": 64680,
+    "Personal Care": 41910
+  },
+  "top_category": "Groceries",
+  "weekend_lift_pct": 36.0,
+  "top_products": [
+    {
+      "product": "Desi Ghee 1kg",
+      "category": "Dairy",
+      "qty": 67,
+      "revenue_pkr": 97150
+    },
+    {
+      "product": "Atta 10kg",
+      "category": "Groceries",
+      "qty": 50,
+      "revenue_pkr": 57500
+    },
+    {
+      "product": "Tea 500g",
+      "category": "Groceries",
+      "qty": 44,
+      "revenue_pkr": 41800
+    },
+    {
+      "product": "Surf Excel 1kg",
+      "category": "Household",
+      "qty": 66,
+      "revenue_pkr": 38280
+    },
+    {
+      "product": "Basmati Rice 1kg",
+      "category": "Groceries",
+      "qty": 88,
+      "revenue_pkr": 36960
+    }
+  ],
+  "weeks_detail": [
+    {
+      "week_no": 1,
+      "week_start": "2026-09-07",
+      "lines": 33,
+      "total_pkr": 61465,
+      "qty": 174,
+      "by_category": {
+        "Groceries": 19545,
+        "Dairy": 19300,
+        "Bakery": 6120,
+        "Household": 8760,
+        "Beverages": 2600,
+        "Personal Care": 5140
+      },
+      "wow_growth_pct": null,
+      "top_category": "Groceries"
+    },
+    {
+      "week_no": 2,
+      "week_start": "2026-09-14",
+      "lines": 39,
+      "total_pkr": 64975,
+      "qty": 205,
+      "by_category": {
+        "Groceries": 10600,
+        "Dairy": 21520,
+        "Bakery": 4290,
+        "Household": 11280,
+        "Beverages": 16430,
+        "Personal Care": 855
+      },
+      "wow_growth_pct": 5.71,
+      "top_category": "Dairy"
+    },
+    {
+      "week_no": 3,
+      "week_start": "2026-09-21",
+      "lines": 39,
+      "total_pkr": 71045,
+      "qty": 195,
+      "by_category": {
+        "Groceries": 47980,
+        "Dairy": 2280,
+        "Bakery": 5010,
+        "Household": 3400,
+        "Beverages": 10950,
+        "Personal Care": 1425
+      },
+      "wow_growth_pct": 9.34,
+      "top_category": "Groceries"
+    },
+    {
+      "week_no": 4,
+      "week_start": "2026-09-28",
+      "lines": 40,
+      "total_pkr": 66345,
+      "qty": 216,
+      "by_category": {
+        "Groceries": 28665,
+        "Dairy": 10180,
+        "Bakery": 5810,
+        "Household": 7540,
+        "Beverages": 11710,
+        "Personal Care": 2440
+      },
+      "wow_growth_pct": -6.62,
+      "top_category": "Groceries"
+    },
+    {
+      "week_no": 5,
+      "week_start": "2026-10-05",
+      "lines": 40,
+      "total_pkr": 86875,
+      "qty": 219,
+      "by_category": {
+        "Groceries": 34570,
+        "Dairy": 14230,
+        "Bakery": 4810,
+        "Household": 22590,
+        "Beverages": 5640,
+        "Personal Care": 5035
+      },
+      "wow_growth_pct": 30.94,
+      "top_category": "Groceries"
+    },
+    {
+      "week_no": 6,
+      "week_start": "2026-10-12",
+      "lines": 36,
+      "total_pkr": 75215,
+      "qty": 174,
+      "by_category": {
+        "Groceries": 19095,
+        "Dairy": 37700,
+        "Bakery": 3390,
+        "Household": 1890,
+        "Beverages": 7010,
+        "Personal Care": 6130
+      },
+      "wow_growth_pct": -13.42,
+      "top_category": "Dairy"
+    },
+    {
+      "week_no": 7,
+      "week_start": "2026-10-19",
+      "lines": 32,
+      "total_pkr": 80525,
+      "qty": 213,
+      "by_category": {
+        "Groceries": 6650,
+        "Dairy": 34550,
+        "Bakery": 3780,
+        "Household": 18680,
+        "Beverages": 4420,
+        "Personal Care": 12445
+      },
+      "wow_growth_pct": 7.06,
+      "top_category": "Dairy"
+    },
+    {
+      "week_no": 8,
+      "week_start": "2026-10-26",
+      "lines": 36,
+      "total_pkr": 64000,
+      "qty": 194,
+      "by_category": {
+        "Groceries": 11130,
+        "Dairy": 24370,
+        "Bakery": 6570,
+        "Household": 7570,
+        "Beverages": 5920,
+        "Personal Care": 8440
+      },
+      "wow_growth_pct": -20.52,
+      "top_category": "Dairy"
+    }
+  ]
+}

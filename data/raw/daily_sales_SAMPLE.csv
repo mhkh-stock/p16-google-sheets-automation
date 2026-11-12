@@ -1,0 +1,296 @@
+date,week_no,week_start,product,category,qty,unit_price_pkr,amount_pkr
+2026-09-07,1,2026-09-07,Tissue Box,Household,4,160,640
+2026-09-07,1,2026-09-07,Cake Slice,Bakery,4,150,600
+2026-09-07,1,2026-09-07,Soft Drink 1.5L,Beverages,2,180,360
+2026-09-07,1,2026-09-07,Toothpaste 100g,Personal Care,4,240,960
+2026-09-07,1,2026-09-07,Biscuits 250g,Bakery,6,210,1260
+2026-09-08,1,2026-09-07,Dishwash Bar,Household,4,90,360
+2026-09-08,1,2026-09-07,Yogurt 500g,Dairy,8,180,1440
+2026-09-08,1,2026-09-07,Biscuits 250g,Bakery,7,210,1470
+2026-09-08,1,2026-09-07,Basmati Rice 1kg,Groceries,5,420,2100
+2026-09-08,1,2026-09-07,Cooking Oil 1L,Groceries,4,640,2560
+2026-09-09,1,2026-09-07,White Bread,Bakery,1,120,120
+2026-09-09,1,2026-09-07,Sugar 1kg,Groceries,6,185,1110
+2026-09-09,1,2026-09-07,Fresh Milk 1L,Dairy,7,240,1680
+2026-09-09,1,2026-09-07,Cake Slice,Bakery,5,150,750
+2026-09-10,1,2026-09-07,Atta 10kg,Groceries,7,1150,8050
+2026-09-10,1,2026-09-07,Shampoo 200ml,Personal Care,5,380,1900
+2026-09-10,1,2026-09-07,Lentils (Daal) 1kg,Groceries,7,320,2240
+2026-09-10,1,2026-09-07,Cooking Oil 1L,Groceries,4,640,2560
+2026-09-11,1,2026-09-07,White Bread,Bakery,9,120,1080
+2026-09-11,1,2026-09-07,Desi Ghee 1kg,Dairy,5,1450,7250
+2026-09-11,1,2026-09-07,Cheese 200g,Dairy,5,520,2600
+2026-09-11,1,2026-09-07,Soap Bar,Personal Care,4,95,380
+2026-09-12,1,2026-09-07,Sugar 1kg,Groceries,5,185,925
+2026-09-12,1,2026-09-07,Soft Drink 1.5L,Beverages,11,180,1980
+2026-09-12,1,2026-09-07,Surf Excel 1kg,Household,11,580,6380
+2026-09-12,1,2026-09-07,Juice 1L,Beverages,1,260,260
+2026-09-13,1,2026-09-07,Soap Bar,Personal Care,4,95,380
+2026-09-13,1,2026-09-07,Desi Ghee 1kg,Dairy,3,1450,4350
+2026-09-13,1,2026-09-07,Floor Cleaner 1L,Household,3,340,1020
+2026-09-13,1,2026-09-07,Biscuits 250g,Bakery,4,210,840
+2026-09-13,1,2026-09-07,Dishwash Bar,Household,4,90,360
+2026-09-13,1,2026-09-07,Yogurt 500g,Dairy,11,180,1980
+2026-09-13,1,2026-09-07,Shampoo 200ml,Personal Care,4,380,1520
+2026-09-14,2,2026-09-14,Soap Bar,Personal Care,2,95,190
+2026-09-14,2,2026-09-14,Cooking Oil 1L,Groceries,3,640,1920
+2026-09-14,2,2026-09-14,Basmati Rice 1kg,Groceries,4,420,1680
+2026-09-14,2,2026-09-14,White Bread,Bakery,5,120,600
+2026-09-14,2,2026-09-14,Surf Excel 1kg,Household,6,580,3480
+2026-09-15,2,2026-09-14,Biscuits 250g,Bakery,1,210,210
+2026-09-15,2,2026-09-14,Dishwash Bar,Household,4,90,360
+2026-09-15,2,2026-09-14,Yogurt 500g,Dairy,1,180,180
+2026-09-15,2,2026-09-14,Tea 500g,Groceries,2,950,1900
+2026-09-15,2,2026-09-14,White Bread,Bakery,7,120,840
+2026-09-16,2,2026-09-14,Rooh Afza 800ml,Beverages,5,420,2100
+2026-09-16,2,2026-09-14,White Bread,Bakery,8,120,960
+2026-09-16,2,2026-09-14,Atta 10kg,Groceries,2,1150,2300
+2026-09-16,2,2026-09-14,Dishwash Bar,Household,3,90,270
+2026-09-16,2,2026-09-14,Mineral Water 1.5L,Beverages,1,110,110
+2026-09-16,2,2026-09-14,Fresh Milk 1L,Dairy,5,240,1200
+2026-09-16,2,2026-09-14,Dishwash Bar,Household,5,90,450
+2026-09-17,2,2026-09-14,Juice 1L,Beverages,6,260,1560
+2026-09-17,2,2026-09-14,Tissue Box,Household,6,160,960
+2026-09-17,2,2026-09-14,Tea 500g,Groceries,1,950,950
+2026-09-17,2,2026-09-14,Rooh Afza 800ml,Beverages,8,420,3360
+2026-09-17,2,2026-09-14,Cheese 200g,Dairy,3,520,1560
+2026-09-17,2,2026-09-14,Soft Drink 1.5L,Beverages,1,180,180
+2026-09-18,2,2026-09-14,Dishwash Bar,Household,8,90,720
+2026-09-18,2,2026-09-14,Fresh Milk 1L,Dairy,11,240,2640
+2026-09-18,2,2026-09-14,Dishwash Bar,Household,10,90,900
+2026-09-18,2,2026-09-14,Biscuits 250g,Bakery,8,210,1680
+2026-09-19,2,2026-09-14,Soap Bar,Personal Care,7,95,665
+2026-09-19,2,2026-09-14,Rooh Afza 800ml,Beverages,8,420,3360
+2026-09-19,2,2026-09-14,Tissue Box,Household,7,160,1120
+2026-09-19,2,2026-09-14,Tissue Box,Household,8,160,1280
+2026-09-19,2,2026-09-14,Desi Ghee 1kg,Dairy,4,1450,5800
+2026-09-19,2,2026-09-14,Juice 1L,Beverages,1,260,260
+2026-09-20,2,2026-09-14,Mineral Water 1.5L,Beverages,8,110,880
+2026-09-20,2,2026-09-14,Desi Ghee 1kg,Dairy,6,1450,8700
+2026-09-20,2,2026-09-14,Sugar 1kg,Groceries,10,185,1850
+2026-09-20,2,2026-09-14,Rooh Afza 800ml,Beverages,11,420,4620
+2026-09-20,2,2026-09-14,Surf Excel 1kg,Household,3,580,1740
+2026-09-20,2,2026-09-14,Fresh Milk 1L,Dairy,6,240,1440
+2026-09-21,3,2026-09-21,Rooh Afza 800ml,Beverages,8,420,3360
+2026-09-21,3,2026-09-21,Atta 10kg,Groceries,8,1150,9200
+2026-09-21,3,2026-09-21,Mineral Water 1.5L,Beverages,1,110,110
+2026-09-21,3,2026-09-21,Tea 500g,Groceries,3,950,2850
+2026-09-21,3,2026-09-21,Lentils (Daal) 1kg,Groceries,8,320,2560
+2026-09-21,3,2026-09-21,Basmati Rice 1kg,Groceries,8,420,3360
+2026-09-21,3,2026-09-21,White Bread,Bakery,3,120,360
+2026-09-22,3,2026-09-21,Basmati Rice 1kg,Groceries,1,420,420
+2026-09-22,3,2026-09-21,Juice 1L,Beverages,8,260,2080
+2026-09-22,3,2026-09-21,Shampoo 200ml,Personal Care,2,380,760
+2026-09-22,3,2026-09-21,Dishwash Bar,Household,2,90,180
+2026-09-22,3,2026-09-21,Surf Excel 1kg,Household,1,580,580
+2026-09-22,3,2026-09-21,Tea 500g,Groceries,6,950,5700
+2026-09-22,3,2026-09-21,Juice 1L,Beverages,6,260,1560
+2026-09-23,3,2026-09-21,Tissue Box,Household,4,160,640
+2026-09-23,3,2026-09-21,Basmati Rice 1kg,Groceries,3,420,1260
+2026-09-23,3,2026-09-21,Yogurt 500g,Dairy,2,180,360
+2026-09-23,3,2026-09-21,Mineral Water 1.5L,Beverages,3,110,330
+2026-09-23,3,2026-09-21,Atta 10kg,Groceries,6,1150,6900
+2026-09-23,3,2026-09-21,Juice 1L,Beverages,4,260,1040
+2026-09-24,3,2026-09-21,Mineral Water 1.5L,Beverages,6,110,660
+2026-09-24,3,2026-09-21,Mineral Water 1.5L,Beverages,4,110,440
+2026-09-24,3,2026-09-21,White Bread,Bakery,7,120,840
+2026-09-24,3,2026-09-21,Cake Slice,Bakery,3,150,450
+2026-09-24,3,2026-09-21,Fresh Milk 1L,Dairy,8,240,1920
+2026-09-24,3,2026-09-21,Lentils (Daal) 1kg,Groceries,4,320,1280
+2026-09-25,3,2026-09-21,Dishwash Bar,Household,8,90,720
+2026-09-25,3,2026-09-21,Biscuits 250g,Bakery,6,210,1260
+2026-09-25,3,2026-09-21,Cake Slice,Bakery,7,150,1050
+2026-09-25,3,2026-09-21,Atta 10kg,Groceries,3,1150,3450
+2026-09-25,3,2026-09-21,Mineral Water 1.5L,Beverages,1,110,110
+2026-09-26,3,2026-09-21,Cake Slice,Bakery,7,150,1050
+2026-09-26,3,2026-09-21,Cooking Oil 1L,Groceries,8,640,5120
+2026-09-26,3,2026-09-21,Soap Bar,Personal Care,7,95,665
+2026-09-26,3,2026-09-21,Basmati Rice 1kg,Groceries,4,420,1680
+2026-09-27,3,2026-09-21,Soft Drink 1.5L,Beverages,1,180,180
+2026-09-27,3,2026-09-21,Tissue Box,Household,8,160,1280
+2026-09-27,3,2026-09-21,Basmati Rice 1kg,Groceries,10,420,4200
+2026-09-27,3,2026-09-21,Soft Drink 1.5L,Beverages,6,180,1080
+2026-09-28,4,2026-09-28,Cake Slice,Bakery,5,150,750
+2026-09-28,4,2026-09-28,Tea 500g,Groceries,3,950,2850
+2026-09-28,4,2026-09-28,Sugar 1kg,Groceries,1,185,185
+2026-09-28,4,2026-09-28,Soap Bar,Personal Care,8,95,760
+2026-09-28,4,2026-09-28,Desi Ghee 1kg,Dairy,4,1450,5800
+2026-09-28,4,2026-09-28,Basmati Rice 1kg,Groceries,3,420,1260
+2026-09-29,4,2026-09-28,Cake Slice,Bakery,1,150,150
+2026-09-29,4,2026-09-28,White Bread,Bakery,8,120,960
+2026-09-29,4,2026-09-28,Soft Drink 1.5L,Beverages,7,180,1260
+2026-09-29,4,2026-09-28,Lentils (Daal) 1kg,Groceries,5,320,1600
+2026-09-29,4,2026-09-28,Basmati Rice 1kg,Groceries,4,420,1680
+2026-09-30,4,2026-09-28,Fresh Milk 1L,Dairy,1,240,240
+2026-09-30,4,2026-09-28,Dishwash Bar,Household,8,90,720
+2026-09-30,4,2026-09-28,Juice 1L,Beverages,8,260,2080
+2026-09-30,4,2026-09-28,Cake Slice,Bakery,3,150,450
+2026-09-30,4,2026-09-28,Tea 500g,Groceries,7,950,6650
+2026-10-01,4,2026-09-28,Toothpaste 100g,Personal Care,7,240,1680
+2026-10-01,4,2026-09-28,Atta 10kg,Groceries,2,1150,2300
+2026-10-01,4,2026-09-28,White Bread,Bakery,6,120,720
+2026-10-01,4,2026-09-28,Mineral Water 1.5L,Beverages,6,110,660
+2026-10-01,4,2026-09-28,Cooking Oil 1L,Groceries,6,640,3840
+2026-10-01,4,2026-09-28,Cake Slice,Bakery,4,150,600
+2026-10-02,4,2026-09-28,White Bread,Bakery,3,120,360
+2026-10-02,4,2026-09-28,Juice 1L,Beverages,4,260,1040
+2026-10-02,4,2026-09-28,Juice 1L,Beverages,11,260,2860
+2026-10-02,4,2026-09-28,Soft Drink 1.5L,Beverages,1,180,180
+2026-10-02,4,2026-09-28,Biscuits 250g,Bakery,1,210,210
+2026-10-02,4,2026-09-28,Mineral Water 1.5L,Beverages,6,110,660
+2026-10-02,4,2026-09-28,Fresh Milk 1L,Dairy,9,240,2160
+2026-10-03,4,2026-09-28,Juice 1L,Beverages,11,260,2860
+2026-10-03,4,2026-09-28,Sugar 1kg,Groceries,4,185,740
+2026-10-03,4,2026-09-28,Cake Slice,Bakery,9,150,1350
+2026-10-03,4,2026-09-28,Basmati Rice 1kg,Groceries,11,420,4620
+2026-10-03,4,2026-09-28,Surf Excel 1kg,Household,3,580,1740
+2026-10-04,4,2026-09-28,Tissue Box,Household,10,160,1600
+2026-10-04,4,2026-09-28,Mineral Water 1.5L,Beverages,1,110,110
+2026-10-04,4,2026-09-28,Yogurt 500g,Dairy,11,180,1980
+2026-10-04,4,2026-09-28,Rusk 400g,Bakery,1,260,260
+2026-10-04,4,2026-09-28,Surf Excel 1kg,Household,6,580,3480
+2026-10-04,4,2026-09-28,Basmati Rice 1kg,Groceries,7,420,2940
+2026-10-05,5,2026-10-05,Basmati Rice 1kg,Groceries,4,420,1680
+2026-10-05,5,2026-10-05,Basmati Rice 1kg,Groceries,6,420,2520
+2026-10-05,5,2026-10-05,Rusk 400g,Bakery,5,260,1300
+2026-10-05,5,2026-10-05,Floor Cleaner 1L,Household,1,340,340
+2026-10-05,5,2026-10-05,Basmati Rice 1kg,Groceries,8,420,3360
+2026-10-05,5,2026-10-05,Lentils (Daal) 1kg,Groceries,2,320,640
+2026-10-06,5,2026-10-05,Cake Slice,Bakery,5,150,750
+2026-10-06,5,2026-10-05,Surf Excel 1kg,Household,6,580,3480
+2026-10-06,5,2026-10-05,Sugar 1kg,Groceries,1,185,185
+2026-10-06,5,2026-10-05,Basmati Rice 1kg,Groceries,6,420,2520
+2026-10-06,5,2026-10-05,Floor Cleaner 1L,Household,9,340,3060
+2026-10-06,5,2026-10-05,Dishwash Bar,Household,6,90,540
+2026-10-06,5,2026-10-05,Lentils (Daal) 1kg,Groceries,6,320,1920
+2026-10-07,5,2026-10-05,Soft Drink 1.5L,Beverages,6,180,1080
+2026-10-07,5,2026-10-05,Cake Slice,Bakery,8,150,1200
+2026-10-07,5,2026-10-05,Surf Excel 1kg,Household,2,580,1160
+2026-10-07,5,2026-10-05,Surf Excel 1kg,Household,8,580,4640
+2026-10-07,5,2026-10-05,Fresh Milk 1L,Dairy,4,240,960
+2026-10-07,5,2026-10-05,Floor Cleaner 1L,Household,9,340,3060
+2026-10-08,5,2026-10-05,Tissue Box,Household,1,160,160
+2026-10-08,5,2026-10-05,Desi Ghee 1kg,Dairy,1,1450,1450
+2026-10-08,5,2026-10-05,Desi Ghee 1kg,Dairy,6,1450,8700
+2026-10-08,5,2026-10-05,Fresh Milk 1L,Dairy,6,240,1440
+2026-10-08,5,2026-10-05,Shampoo 200ml,Personal Care,1,380,380
+2026-10-09,5,2026-10-05,Floor Cleaner 1L,Household,10,340,3400
+2026-10-09,5,2026-10-05,Floor Cleaner 1L,Household,4,340,1360
+2026-10-09,5,2026-10-05,Rooh Afza 800ml,Beverages,1,420,420
+2026-10-09,5,2026-10-05,Sugar 1kg,Groceries,9,185,1665
+2026-10-09,5,2026-10-05,Rooh Afza 800ml,Beverages,6,420,2520
+2026-10-10,5,2026-10-05,White Bread,Bakery,3,120,360
+2026-10-10,5,2026-10-05,Soft Drink 1.5L,Beverages,9,180,1620
+2026-10-10,5,2026-10-05,Fresh Milk 1L,Dairy,7,240,1680
+2026-10-10,5,2026-10-05,White Bread,Bakery,10,120,1200
+2026-10-10,5,2026-10-05,Soap Bar,Personal Care,1,95,95
+2026-10-11,5,2026-10-05,Shampoo 200ml,Personal Care,12,380,4560
+2026-10-11,5,2026-10-05,Atta 10kg,Groceries,10,1150,11500
+2026-10-11,5,2026-10-05,Atta 10kg,Groceries,6,1150,6900
+2026-10-11,5,2026-10-05,Dishwash Bar,Household,3,90,270
+2026-10-11,5,2026-10-05,Basmati Rice 1kg,Groceries,4,420,1680
+2026-10-11,5,2026-10-05,Tissue Box,Household,7,160,1120
+2026-10-12,6,2026-10-12,Floor Cleaner 1L,Household,1,340,340
+2026-10-12,6,2026-10-12,Floor Cleaner 1L,Household,1,340,340
+2026-10-12,6,2026-10-12,Juice 1L,Beverages,6,260,1560
+2026-10-12,6,2026-10-12,Tissue Box,Household,7,160,1120
+2026-10-12,6,2026-10-12,Tea 500g,Groceries,1,950,950
+2026-10-12,6,2026-10-12,Rusk 400g,Bakery,9,260,2340
+2026-10-13,6,2026-10-12,Fresh Milk 1L,Dairy,1,240,240
+2026-10-13,6,2026-10-12,Tea 500g,Groceries,7,950,6650
+2026-10-13,6,2026-10-12,Dishwash Bar,Household,1,90,90
+2026-10-13,6,2026-10-12,Fresh Milk 1L,Dairy,4,240,960
+2026-10-13,6,2026-10-12,Sugar 1kg,Groceries,2,185,370
+2026-10-13,6,2026-10-12,Shampoo 200ml,Personal Care,2,380,760
+2026-10-13,6,2026-10-12,Yogurt 500g,Dairy,1,180,180
+2026-10-14,6,2026-10-12,Soap Bar,Personal Care,4,95,380
+2026-10-14,6,2026-10-12,Fresh Milk 1L,Dairy,7,240,1680
+2026-10-14,6,2026-10-12,Cooking Oil 1L,Groceries,2,640,1280
+2026-10-14,6,2026-10-12,Yogurt 500g,Dairy,2,180,360
+2026-10-15,6,2026-10-12,Sugar 1kg,Groceries,2,185,370
+2026-10-15,6,2026-10-12,Mineral Water 1.5L,Beverages,3,110,330
+2026-10-15,6,2026-10-12,Lentils (Daal) 1kg,Groceries,4,320,1280
+2026-10-15,6,2026-10-12,Biscuits 250g,Bakery,4,210,840
+2026-10-15,6,2026-10-12,Atta 10kg,Groceries,6,1150,6900
+2026-10-16,6,2026-10-12,Cheese 200g,Dairy,12,520,6240
+2026-10-16,6,2026-10-12,Sugar 1kg,Groceries,7,185,1295
+2026-10-16,6,2026-10-12,Cheese 200g,Dairy,7,520,3640
+2026-10-16,6,2026-10-12,Toothpaste 100g,Personal Care,1,240,240
+2026-10-17,6,2026-10-12,Yogurt 500g,Dairy,10,180,1800
+2026-10-17,6,2026-10-12,Biscuits 250g,Bakery,1,210,210
+2026-10-17,6,2026-10-12,Soap Bar,Personal Care,10,95,950
+2026-10-17,6,2026-10-12,Juice 1L,Beverages,1,260,260
+2026-10-17,6,2026-10-12,Mineral Water 1.5L,Beverages,3,110,330
+2026-10-17,6,2026-10-12,Shampoo 200ml,Personal Care,10,380,3800
+2026-10-18,6,2026-10-12,Mineral Water 1.5L,Beverages,3,110,330
+2026-10-18,6,2026-10-12,Desi Ghee 1kg,Dairy,12,1450,17400
+2026-10-18,6,2026-10-12,Rooh Afza 800ml,Beverages,10,420,4200
+2026-10-18,6,2026-10-12,Cheese 200g,Dairy,10,520,5200
+2026-10-19,7,2026-10-19,Floor Cleaner 1L,Household,3,340,1020
+2026-10-19,7,2026-10-19,Rusk 400g,Bakery,6,260,1560
+2026-10-19,7,2026-10-19,Floor Cleaner 1L,Household,9,340,3060
+2026-10-19,7,2026-10-19,Dishwash Bar,Household,4,90,360
+2026-10-20,7,2026-10-19,Soap Bar,Personal Care,3,95,285
+2026-10-20,7,2026-10-19,Soft Drink 1.5L,Beverages,8,180,1440
+2026-10-20,7,2026-10-19,Toothpaste 100g,Personal Care,7,240,1680
+2026-10-20,7,2026-10-19,Tissue Box,Household,4,160,640
+2026-10-21,7,2026-10-19,Tea 500g,Groceries,7,950,6650
+2026-10-21,7,2026-10-19,Mineral Water 1.5L,Beverages,8,110,880
+2026-10-21,7,2026-10-19,Cheese 200g,Dairy,6,520,3120
+2026-10-21,7,2026-10-19,White Bread,Bakery,7,120,840
+2026-10-22,7,2026-10-19,Desi Ghee 1kg,Dairy,7,1450,10150
+2026-10-22,7,2026-10-19,Shampoo 200ml,Personal Care,1,380,380
+2026-10-22,7,2026-10-19,Yogurt 500g,Dairy,9,180,1620
+2026-10-22,7,2026-10-19,Desi Ghee 1kg,Dairy,7,1450,10150
+2026-10-23,7,2026-10-19,Fresh Milk 1L,Dairy,11,240,2640
+2026-10-23,7,2026-10-19,Shampoo 200ml,Personal Care,11,380,4180
+2026-10-23,7,2026-10-19,Tissue Box,Household,8,160,1280
+2026-10-23,7,2026-10-19,Yogurt 500g,Dairy,5,180,900
+2026-10-24,7,2026-10-19,Toothpaste 100g,Personal Care,12,240,2880
+2026-10-24,7,2026-10-19,Yogurt 500g,Dairy,5,180,900
+2026-10-24,7,2026-10-19,Shampoo 200ml,Personal Care,8,380,3040
+2026-10-24,7,2026-10-19,Fresh Milk 1L,Dairy,3,240,720
+2026-10-24,7,2026-10-19,Surf Excel 1kg,Household,9,580,5220
+2026-10-24,7,2026-10-19,Dishwash Bar,Household,12,90,1080
+2026-10-25,7,2026-10-19,Cake Slice,Bakery,2,150,300
+2026-10-25,7,2026-10-19,Tissue Box,Household,5,160,800
+2026-10-25,7,2026-10-19,Surf Excel 1kg,Household,9,580,5220
+2026-10-25,7,2026-10-19,Rooh Afza 800ml,Beverages,5,420,2100
+2026-10-25,7,2026-10-19,White Bread,Bakery,9,120,1080
+2026-10-25,7,2026-10-19,Desi Ghee 1kg,Dairy,3,1450,4350
+2026-10-26,8,2026-10-26,Soap Bar,Personal Care,8,95,760
+2026-10-26,8,2026-10-26,Cheese 200g,Dairy,1,520,520
+2026-10-26,8,2026-10-26,Toothpaste 100g,Personal Care,8,240,1920
+2026-10-26,8,2026-10-26,Lentils (Daal) 1kg,Groceries,5,320,1600
+2026-10-26,8,2026-10-26,Mineral Water 1.5L,Beverages,3,110,330
+2026-10-27,8,2026-10-26,Juice 1L,Beverages,9,260,2340
+2026-10-27,8,2026-10-26,Soap Bar,Personal Care,8,95,760
+2026-10-27,8,2026-10-26,Tea 500g,Groceries,7,950,6650
+2026-10-27,8,2026-10-26,Mineral Water 1.5L,Beverages,1,110,110
+2026-10-28,8,2026-10-26,Mineral Water 1.5L,Beverages,2,110,220
+2026-10-28,8,2026-10-26,Rusk 400g,Bakery,6,260,1560
+2026-10-28,8,2026-10-26,Biscuits 250g,Bakery,1,210,210
+2026-10-28,8,2026-10-26,Fresh Milk 1L,Dairy,2,240,480
+2026-10-28,8,2026-10-26,Toothpaste 100g,Personal Care,5,240,1200
+2026-10-29,8,2026-10-26,Fresh Milk 1L,Dairy,9,240,2160
+2026-10-29,8,2026-10-26,Shampoo 200ml,Personal Care,7,380,2660
+2026-10-29,8,2026-10-26,Cake Slice,Bakery,8,150,1200
+2026-10-29,8,2026-10-26,Fresh Milk 1L,Dairy,8,240,1920
+2026-10-29,8,2026-10-26,Dishwash Bar,Household,2,90,180
+2026-10-30,8,2026-10-26,Cheese 200g,Dairy,9,520,4680
+2026-10-30,8,2026-10-26,Biscuits 250g,Bakery,9,210,1890
+2026-10-30,8,2026-10-26,Dishwash Bar,Household,6,90,540
+2026-10-30,8,2026-10-26,Soft Drink 1.5L,Beverages,8,180,1440
+2026-10-30,8,2026-10-26,Surf Excel 1kg,Household,2,580,1160
+2026-10-30,8,2026-10-26,Mineral Water 1.5L,Beverages,2,110,220
+2026-10-31,8,2026-10-26,Cake Slice,Bakery,3,150,450
+2026-10-31,8,2026-10-26,Desi Ghee 1kg,Dairy,9,1450,13050
+2026-10-31,8,2026-10-26,Dishwash Bar,Household,5,90,450
+2026-10-31,8,2026-10-26,Shampoo 200ml,Personal Care,3,380,1140
+2026-10-31,8,2026-10-26,Cheese 200g,Dairy,3,520,1560
+2026-10-31,8,2026-10-26,Biscuits 250g,Bakery,6,210,1260
+2026-10-31,8,2026-10-26,Floor Cleaner 1L,Household,2,340,680
+2026-11-01,8,2026-10-26,Lentils (Daal) 1kg,Groceries,9,320,2880
+2026-11-01,8,2026-10-26,Floor Cleaner 1L,Household,12,340,4080
+2026-11-01,8,2026-10-26,Rooh Afza 800ml,Beverages,3,420,1260
+2026-11-01,8,2026-10-26,Tissue Box,Household,3,160,480
